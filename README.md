@@ -26,7 +26,13 @@ Feel free to connect with me on LinkedIn for inquiries and collaboration:
 
 ## 🚀 Live Demo  
 
-🌐 **[Explore the application here](https://mahmoudnazmy.github.io/register)**  
+
+To get started and begin entering your data, you must first choose between:
+
+- **تسجيل الدخول** (Login)
+- **حساب جديد** (Create a New Account)
+
+🌐 **[Explore the application here](https://mahmoudnazmy.github.io/Task-management-dist/)**  
 
 ---
 
