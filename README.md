@@ -26,7 +26,7 @@ Feel free to connect with me on LinkedIn for inquiries and collaboration:
 
 ## 🚀 Live Demo  
 
-🌐 **[Explore the application here](https://mahmoudnazmy.github.io/login)**  
+🌐 **[Explore the application here](https://mahmoudnazmy.github.io/register)**  
 
 ---
 
